@@ -20,7 +20,7 @@
 
 `cd GREEN-LOVER`
 
-`python GREEN-LOVER.py`
+`python green.py`
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=+Assalamu+Alaikum+;++It's+Not+Only+Just+Name+,;It's+A+Brand+TANJIM-143+,,;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
 
