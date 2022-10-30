@@ -16,7 +16,7 @@
 
 `rm -rf GREEN-LOVER`
 
-`git clone https://github.com/TANJIM-143/GREEN-LOVER`
+`git clone https://github.com/TANJIM-143/GREEN-LOVER.git`
 
 `cd GREEN-LOVER`
 
@@ -30,4 +30,4 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/t.tanjim143)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/t.tanjim143)
-[![Github](https://img.shields.io/badge/Github-TANJIM-143green?style=for-the-badge&logo=github)](https://github.com/TANJIM-143
+[![Github](https://img.shields.io/badge/Github-TANJIM-143green?style=for-the-badge&logo=github)https://github.com/TANJIM-143
